@@ -1,6 +1,8 @@
 #
 # Fluentd Dockerfile
 #
+# https://github.com/arel/docker-fluentd
+#
 # Pull base image.
 #
 # For configuring the host to best run fluentd, see:
